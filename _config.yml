@@ -51,7 +51,7 @@ skills:
   #- name: bootstrap
   #- name: bower
   - name: c
-  - name: chrome
+  #- name: chrome
   #- name: codeigniter
   #- name: coffescript
   #- name: confluence
@@ -63,28 +63,28 @@ skills:
   #- name: debian
   #- name: devicon
   #- name: django
-  - name: docker
+  #- name: docker
   #- name: doctrine
   #- name: dot-net
- # - name: drupal
+  #- name: drupal
   #- name: erlang
-  - name: facebook
-  - name: firefox
+  #- name: facebook
+  #- name: firefox
   #- name: foundation
   #- name: gatling
-  - name: gimp
+  #- name: gimp
   - name: git
   - name: github
   #- name: gitlab
   #- name: go
-  - name: google
-  - name: gradle
+  #- name: google
+  #- name: gradle
   #- name: grunt
   #- name: gulp
   #- name: heroku
   - name: html5
   #- name: ie10
-  - name: illustrator
+  #- name: illustrator
   #- name: inkscape
   #- name: itellij
   - name: java
@@ -97,12 +97,12 @@ skills:
   #- name: mocha
   #- name: mongodb
   #- name: moodle
-  - name: mysql
+  #- name: mysql
   #- name: nginx
   #- name: nodejs
   #- name: nodewebkit
   #- name: oracle
-  - name: photoshop
+  #- name: photoshop
   #- name: php
   #- name: phpstorm
   #- name: protractor
@@ -126,15 +126,15 @@ skills:
   #- name: tomcat
   #- name: travis
   #- name: trello
-  - name: twitter
+  #- name: twitter
   #- name: typescript
   #- name: ubuntu
   #- name: vim
-  - name: visualstudio
+  #- name: visualstudio
   #- name: vuejs
   #- name: webpack
   #- name: webstorm
-  - name: windows8
+  #- name: windows8
   - name: wordpress
   #- name: yii
   #- name: zend
