@@ -9,9 +9,9 @@ url: ""
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: "SoloLearn Coding Challenges"
+project_one_description: This is my favourite educational site. I've completed most of the challenges and here are the solutions.
+project_one_url: https://github.com/petr7555/Coding-challenges
 project_one_icon: location_on
 
 project_two: Second Project
