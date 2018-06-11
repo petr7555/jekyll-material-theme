@@ -9,15 +9,15 @@ url: ""
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "SoloLearn Coding Challenges"
+project_one: SoloLearn Coding Challenges
 project_one_description: This is my favourite educational site. I've completed most of the challenges and here are the solutions.
 project_one_url: https://github.com/petr7555/Coding-challenges
-project_one_icon: location_on
+#project_one_icon: location_on
 
-project_two: Sklenda
+project_two: Sklenda Python Game
 project_two_description: A fun game for two players. Created in Python 3 using pygame library. Rules are similar to tic-tac-toe, but little bit more advanced (see github readme file).
 project_two_url: https://github.com/petr7555/Sklenda-pygame
-project_two_icon: screenshot
+#project_two_icon: screenshot
 
 
 project_three: Third Project
