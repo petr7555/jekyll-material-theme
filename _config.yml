@@ -20,8 +20,8 @@ project_two_url: https://github.com/petr7555/Sklenda-pygame
 #project_two_icon: screenshot
 
 
-project_three: Third Project
-project_three_description: Describe your project!
+project_three: Spreadsheet notification macro
+project_three_description: I created this form in Google Spreadsheets so that our coaches would have an easy way to let us know that the time of lesson has changed. It is supposed to be right next to the schedule.
 project_three_url: https://github.com/jameshamann/jekyll-material-theme
 project_three_icon: hotel
 
