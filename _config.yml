@@ -17,7 +17,7 @@ project_one_icon: location_on
 project_two: Sklenda
 project_two_description: A fun game for two players. Created in Python 3 using pygame library. Rules are similar to tic-tac-toe, but little bit more advanced (see github readme file).
 project_two_url: https://github.com/petr7555/Sklenda-pygame
-project_two_icon: photo_camera
+project_two_icon: screenshot
 
 
 project_three: Third Project
