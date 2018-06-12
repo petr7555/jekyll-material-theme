@@ -36,9 +36,9 @@ project_five_description: An app created in Android Studio that orders coffee vi
 project_five_url: https://github.com/petr7555/JustJava-java-app
 
 
-project_six: Sixth Project
-project_six_description: Describe your project!
-project_six_url: https://github.com/petr7555/CourtCounter-java-app
+project_six: History of Super Powers
+project_six_description: A website that contains a timeline of main historical events of each of eight chosen countries. Furthermore, there is a fun JavaScript quiz.
+#project_six_url: https://github.com/petr7555/CourtCounter-java-app
 
 
 portfolio_heading: Portfolio
