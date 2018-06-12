@@ -26,10 +26,20 @@ project_three_url: https://github.com/petr7555/Google-spreadsheets-notification-
 #project_three_icon: hotel
 
 
-project_four: Fourth Project
+project_four: Court Counter java app
 project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
+project_four_url: https://github.com/petr7555/CourtCounter-java-app
+#project_four_icon: restaurant
+
+project_five: Coffee-ordering java app
+project_five_description: Describe your project!
+project_five_url: https://github.com/petr7555/JustJava-java-app
+#project_four_icon: restaurant
+
+project_six: Fourth Project
+project_six_description: Describe your project!
+project_six_url: https://github.com/petr7555/CourtCounter-java-app
+#project_four_icon: restaurant
 
 portfolio_heading: Portfolio
 portfolio_type: cards
