@@ -17,29 +17,29 @@ project_one_url: https://github.com/petr7555/Coding-challenges
 project_two: Sklenda Python Game
 project_two_description: A fun game for two players. Created in Python 3 using pygame library. Rules are similar to tic-tac-toe, but a little bit more advanced (see github readme file).
 project_two_url: https://github.com/petr7555/Sklenda-pygame
-#project_two_icon: screenshot
+
 
 
 project_three: Spreadsheet Notification Macro
 project_three_description: I created this form in Google Spreadsheets so that our coaches would have an easy way to let us know that the time of lesson has changed. It is supposed to be right next to the schedule. It also has second list, which contains names and email addresses. A coach fills in names, day and time and hits send button. A notification pops up to let him know that the message has been sent successfully.
 project_three_url: https://github.com/petr7555/Google-spreadsheets-notification-form-and-macro
-#project_three_icon: hotel
+
 
 
 project_four: Court Counter Java App
 project_four_description: An app created in Android Studio that counts score in basketball.
 project_four_url: https://github.com/petr7555/CourtCounter-java-app
-#project_four_icon: restaurant
+
 
 project_five: Coffee-ordering Java App
 project_five_description: An app created in Android Studio that orders coffee via email.
 project_five_url: https://github.com/petr7555/JustJava-java-app
-#project_four_icon: restaurant
+
 
 project_six: Sixth Project
 project_six_description: Describe your project!
 project_six_url: https://github.com/petr7555/CourtCounter-java-app
-#project_four_icon: restaurant
+
 
 portfolio_heading: Portfolio
 portfolio_type: cards
