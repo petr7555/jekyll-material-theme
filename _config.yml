@@ -35,10 +35,13 @@ project_five: Coffee-ordering Java App
 project_five_description: An app created in Android Studio that orders coffee via email.
 project_five_url: https://github.com/petr7555/JustJava-java-app
 
+project_six: Python Terminal Games
+project_six_description: Fun games you can play in the terminal. Includes chrome-like dinosaur and tic-tac-toe.
+project_six_url: https://github.com/petr7555/Python-games
 
-project_six: History of Super Powers
-project_six_description: A website that contains a timeline of main historical events of each of eight chosen countries. Furthermore, there is a fun JavaScript quiz.
-project_six_url: https://petajanik.wixsite.com/velmoci
+project_seven: History of Super Powers
+project_seven_description: A website that contains a timeline of main historical events of each of eight chosen countries. Furthermore, there is a fun JavaScript quiz.
+project_seven_url: https://petajanik.wixsite.com/velmoci
 
 
 portfolio_heading: Portfolio
