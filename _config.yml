@@ -53,22 +53,22 @@ syntax_highlighting: true
 skills:
   #- name: amazonwebservices
   - name: android
-  #- name: angularjs
+  - name: angularjs
   #- name: apache
   #- name: appcelerator
   #- name: apple
   #- name: atom
   #- name: babel
   #- name: backbonejs
-  #- name: bitbucket
-  #- name: bootstrap
+  - name: bitbucket
+  - name: bootstrap
   #- name: bower
   - name: c
   #- name: chrome
   #- name: codeigniter
   #- name: coffescript
   #- name: confluence
-  #- name: cplusplus
+  - name: cplusplus
   #- name: csharp
   - name: css3
   #- name: cucumber
@@ -76,7 +76,7 @@ skills:
   #- name: debian
   #- name: devicon
   #- name: django
-  #- name: docker
+  - name: docker
   #- name: doctrine
   #- name: dot-net
   #- name: drupal
@@ -87,7 +87,7 @@ skills:
   #- name: gatling
   #- name: gimp
   - name: git
-  - name: github
+  #- name: github
   #- name: gitlab
   #- name: go
   #- name: google
@@ -99,7 +99,7 @@ skills:
   #- name: ie10
   #- name: illustrator
   #- name: inkscape
-  #- name: itellij
+  - name: itellij
   - name: java
   #- name: jasmine
   - name: javascript
@@ -110,7 +110,7 @@ skills:
   #- name: mocha
   #- name: mongodb
   #- name: moodle
-  #- name: mysql
+  - name: mysql
   #- name: nginx
   #- name: nodejs
   #- name: nodewebkit
@@ -126,7 +126,7 @@ skills:
   #- name: react
   #- name: redhat
   #- name: redis
-  #- name: ruby
+  - name: ruby
   #- name: rubymine
   #- name: safari
   #- name: sass
@@ -140,7 +140,7 @@ skills:
   #- name: travis
   #- name: trello
   #- name: twitter
-  #- name: typescript
+  - name: typescript
   #- name: ubuntu
   #- name: vim
   #- name: visualstudio
